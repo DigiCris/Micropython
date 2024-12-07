@@ -1,0 +1,26 @@
+1) Hacer upgrade de pip si lo necesitas:
+    python -m pip install --upgrade pip
+
+2) instalar esptool:
+    pip install esptool
+
+    pip install thonny==4.0.0
+
+3) Instalacion del driver = Si alguno tiene problema para comunicarse con el microcontrolador un problema con el driver
+es lo más habitual. Pueden descargarselo de acá:
+    https://sparks.gogo.co.nz/ch340.html
+
+4) thonny para abrirlo
+
+5) Visualizacion - Archivos (para que aparezcan a la derecha)
+
+6) Conectar ESP32 o NodeMCU
+
+7) Herramientas - opciones - interprete
+Ponemos nuestra placa (Micropython ESP8266)
+Puerto COM que nos detecta
+Install or update micropython
+puerto COM donde nos conectamos
+Pongo firmware que busco de micropython.org - download (el bin v1.19.1)
+
+Instalar
